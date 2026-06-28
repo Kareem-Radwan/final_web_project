@@ -4,7 +4,7 @@ const txt = document.getElementById("txt")
 const navItems = document.getElementsByClassName("nav-item")
 
 btn.addEventListener("click", () => {
-    txt.innerText = "Hello From Js"
+    txt.innerText = "Hello From Feature Background"
 })
 
 clr.addEventListener("click", () => {

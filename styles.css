@@ -5,8 +5,8 @@
 }
 
 button {
-    padding: 10px;
-    border: 2px solid salmon;
+    padding: 10px 15px;
+    border: 2px solid darkorange;
     border-radius: 10px;
     background-color: brown;
     color: white;
@@ -15,6 +15,7 @@ button {
 body {
     height: 100vh;
     display: flex;
+    background-color: aqua;
     justify-content: center;
     align-items: center;
     flex-direction: column;
